@@ -3,3 +3,6 @@
 2017-10-14 23:22:57,181 - server - INFO - Client [<socket.socket fd=488, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 1212), raddr=('127.0.0.1', 4499)>] disconnected! .
 2017-10-14 23:26:40,802 - server - INFO - Client [<socket.socket fd=368, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 1212), raddr=('127.0.0.1', 4504)>] disconnected! .
 2017-10-14 23:31:40,717 - server - INFO - Client [<socket.socket fd=404, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 1212), raddr=('127.0.0.1', 4517)>] disconnected! .
+2017-11-30 10:26:55,160 - server - INFO - Client [<socket.socket fd=488, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 1212), raddr=('127.0.0.1', 3543)>] connected .
+2017-11-30 10:29:05,144 - server - INFO - Client [<socket.socket fd=488, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 1212), raddr=('127.0.0.1', 3543)>] disconnected! .
+2017-12-03 01:30:37,485 - server - INFO - Client [<socket.socket fd=492, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 1212), raddr=('127.0.0.1', 8288)>] connected .
