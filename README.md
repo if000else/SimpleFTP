@@ -5,7 +5,16 @@
 4. 查看当前目录下文件
 5. 充分使用面向对象知识
 
-加入高级功能select
+
+### 作者介绍：
+
+Author：Yaoqing Wang
+
+Nickname:Huayiqiu
+
+Blog:http://www.cnblogs.com/iforelse
+
+Github: https://github.com/if000else
 
 
 登录：admin 123456
